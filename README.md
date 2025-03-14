@@ -1,9 +1,9 @@
 
-#📍 Análise de Dados Imobiliários em São Paulo
+# 📍 Análise de Dados Imobiliários em São Paulo
 
 Este repositório contém um notebook interativo para análise dos preços de aluguel e venda de imóveis na cidade de São Paulo, utilizando visualizações dinâmicas com Plotly.
 
-##📊 O que este projeto faz?
+## 📊 O que este projeto faz?
 
 - Carrega e processa dados imobiliários de um dataset público.
 
@@ -13,7 +13,7 @@ Este repositório contém um notebook interativo para análise dos preços de al
 
 - Aplica técnicas de exploração de dados e Machine Learning.
 
-##🔧 Tecnologias e Bibliotecas Utilizadas
+## 🔧 Tecnologias e Bibliotecas Utilizadas
 
 - pandas para manipulação de dados
 
@@ -23,6 +23,6 @@ Este repositório contém um notebook interativo para análise dos preços de al
 
 - numpy para operações matemáticas
 
-##📌 Fonte dos Dados
+## 📌 Fonte dos Dados
 
 - Os dados utilizados no projeto são provenientes de um dataset público de imóveis de São Paulo, coletado em abril de 2019.
