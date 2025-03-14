@@ -23,6 +23,14 @@ Este repositório contém um notebook interativo para análise dos preços de al
 
 - numpy para operações matemáticas
 
+## 📂 Estrutura do Repositório
+
+/
+├── modelo-machine-learning-precos-imobiliarios.ipynb  # Notebook principal com a análise
+├── sao-paulo-properties-april-2019.csv  # Dados de imóveis
+├── o-checklist-de-um-projeto-de-machine-learning.pdf  # checklist projeto de machine learning
+└── README.md  # Documentação do projeto
+
 ## 📌 Fonte dos Dados
 
 - Os dados utilizados no projeto são provenientes de um dataset público de imóveis de São Paulo, coletado em abril de 2019.
