@@ -1,38 +1,82 @@
+# 🏡 Previsão de Preços de Apartamentos com Machine Learning  
 
-# 📍 Análise de Dados Imobiliários em São Paulo
+![Python](https://img.shields.io/badge/Python-ML-yellow?style=for-the-badge&logo=python)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge&logo=pandas)  
+![Numpy](https://img.shields.io/badge/Numpy-Scientific%20Computing-red?style=for-the-badge&logo=numpy)  
 
-Este repositório contém um notebook interativo para análise dos preços de aluguel e venda de imóveis na cidade de São Paulo, utilizando visualizações dinâmicas com Plotly.
+## 📌 Sobre este repositório  
 
-## 📊 O que este projeto faz?
+Este repositório documenta minha experiência no **desenvolvimento de um modelo de Machine Learning para prever preços de apartamentos** em São Paulo.  
 
-- Carrega e processa dados imobiliários de um dataset público.
+O projeto faz parte do curso **Fundamentos de AI e Machine Learning** da **Asimov Academy**, e tem como objetivo demonstrar, na prática, como estruturar um modelo preditivo desde a análise dos dados até a seleção e avaliação do modelo final.  
 
-- Separa os dados entre aluguéis e vendas.
+Aqui, aplico técnicas fundamentais de **Machine Learning supervisionado**, explorando **regressão, engenharia de features, tratamento de dados ausentes e avaliação de modelos**. 🚀  
 
-- Utiliza mapas interativos para visualizar distribuição de preços.
+---
 
-- Aplica técnicas de exploração de dados e Machine Learning.
+## 🏡 🔍 Projeto: Prevendo Preços de Apartamentos  
 
-## 🔧 Tecnologias e Bibliotecas Utilizadas
+O projeto consiste na **previsão de preços de imóveis em São Paulo** utilizando um **modelo de regressão supervisionado**.  
 
-- pandas para manipulação de dados
+### 🔹 **Passos do projeto**  
 
-- plotly.express e plotly.graph_objects para visualizações interativas
+1️⃣ **Coleta e preparação dos dados**  
+- Leitura e limpeza do conjunto de dados  
+- Tratamento de valores ausentes e outliers  
+- Engenharia de features para otimizar o modelo  
 
-- matplotlib.pyplot e seaborn para análise exploratória
+2️⃣ **Análise exploratória de dados (EDA)**  
+- Estatísticas descritivas  
+- Visualização da distribuição dos preços dos imóveis  
+- Identificação de correlações entre variáveis  
 
-- numpy para operações matemáticas
+3️⃣ **Construção e treino do modelo de Machine Learning**  
+- Teste de diferentes algoritmos de regressão  
+- Avaliação com métricas como **RMSE, R² e MAE**  
+- Ajuste de hiperparâmetros para melhorar a precisão  
 
-## 📂 Estrutura do Repositório
+4️⃣ **Validação e interpretação dos resultados**  
+- Comparação entre modelos e seleção do melhor desempenho  
+- Análise de importância das variáveis no preço dos apartamentos  
+- Teste do modelo em novos dados  
 
-```
-/
-├── modelo-machine-learning-precos-imobiliarios.ipynb  # Notebook principal com a análise
-├── sao-paulo-properties-april-2019.csv  # Dados de imóveis
-├── o-checklist-de-um-projeto-de-machine-learning.pdf  # checklist projeto de machine learning
-└── README.md  # Documentação do projeto
-```
+---
 
-## 📌 Fonte dos Dados
+## 📚 O que estou aprendendo?  
 
-- Os dados utilizados no projeto são provenientes de um dataset público de imóveis de São Paulo, coletado em abril de 2019.
+✔ **Fundamentos de Machine Learning**  
+- Diferenças entre **Machine Learning e Inteligência Artificial**  
+- Tipos de algoritmos: **supervisionado, não supervisionado e reforço**  
+
+✔ **Técnicas de Modelagem**  
+- Algoritmos de **regressão linear e regressão polinomial**  
+- Seleção de variáveis e engenharia de features  
+- Uso de **Scikit-Learn** para construção e avaliação de modelos  
+
+✔ **Projeto Prático: Prevendo preços de apartamentos**  
+- Aplicação real de **Machine Learning no mercado imobiliário**  
+- Desenvolvimento de um modelo preditivo de **regressão**  
+- Uso de **Python, Pandas, NumPy e Scikit-Learn**  
+
+---
+
+## 🏆 Objetivo  
+
+O objetivo deste repositório é demonstrar, na prática, **como desenvolver um modelo de Machine Learning para prever preços de imóveis**, utilizando **técnicas de regressão e análise de dados**.  
+
+Se você deseja aprender **ML para precificação de imóveis**, este repositório pode ser uma ótima referência! 💡  
+
+---
+
+## 🔧 Tecnologias utilizadas  
+
+- **Python** 🐍  
+- **Pandas** 📊  
+- **NumPy** 🔢  
+- **Scikit-Learn** 🤖  
+- **Matplotlib & Seaborn** 🎨  
+
+---
+
+🚀 **Vamos prever preços de apartamentos!** Se quiser contribuir ou trocar ideias, fique à vontade para abrir uma *issue* ou um *pull request*!  
