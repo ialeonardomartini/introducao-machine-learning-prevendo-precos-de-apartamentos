@@ -7,11 +7,27 @@
 
 ## 📌 Sobre este repositório  
 
-Este repositório documenta minha experiência no **desenvolvimento de um modelo de Machine Learning para prever preços de apartamentos** em São Paulo.  
+Este repositório documenta minha experiência introdutória ao machine learning **desenvolvendo um modelo para prever preços de apartamentos** em São Paulo.  
 
 O projeto faz parte do curso **Fundamentos de AI e Machine Learning** da **Asimov Academy**, e tem como objetivo demonstrar, na prática, como estruturar um modelo preditivo desde a análise dos dados até a seleção e avaliação do modelo final.  
 
 Aqui, aplico técnicas fundamentais de **Machine Learning supervisionado**, explorando **regressão, engenharia de features, tratamento de dados ausentes e avaliação de modelos**. 🚀  
+
+---
+
+## Checklist de um projeto de Machine Learning
+
+Este é o checklist de verificação para orientá‑lo em seus projetos de Machine Learning. Existem oito etapas
+principais꞉
+
+1. Reflita sobre o problema e observe o quadro geral.
+2. Obtenha os dados.
+3. Explore os dados para obter insights.
+4. Prepare os dados para expor melhor os padrões de dados subjacentes aos algoritmos de aprendizado de máquina.
+5. Explore muitos modelos diferentes e selecione os melhores.
+6. Ajuste seus modelos e combine‑os em uma ótima solução.
+7. Apresente sua solução.
+8. Inicie, monitore e mantenha seu sistema.
 
 ---
 
